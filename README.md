@@ -13,7 +13,7 @@
 
 **A full-stack MERN notes application with Redis-backed rate limiting and a production-ready single-service deployment.**
 
-[🚀 Live Demo](#) · [🐛 Report Bug](https://github.com/SUDHARSHANKUPPILI/mern-thinkboard/issues) · [💡 Request Feature](https://github.com/SUDHARSHANKUPPILI/mern-thinkboard/issues)
+[🚀 Live Demo](https://mern-thinkboard-8b1o.onrender.com/) · [🐛 Report Bug](https://github.com/SUDHARSHANKUPPILI/mern-thinkboard/issues) · [💡 Request Feature](https://github.com/SUDHARSHANKUPPILI/mern-thinkboard/issues)
 
 </div>
 
